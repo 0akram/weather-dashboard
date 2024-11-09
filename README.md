@@ -13,6 +13,7 @@ This project is built using the following technologies:
 - **Chart.js**: A library for creating beautiful, responsive charts.
 - **Lucide Icons**: A collection of SVG icons for React.
 - **OpenWeatherMap API**: Provides real-time weather data for cities around the world.
+- **Visual Studio Code (VSCode)** for development
 - **GitHub**: For version control and collaboration.
 - **Vercel**: For hosting and deployment.
 
@@ -46,22 +47,26 @@ Ensure that you have the following installed on your system:
 
 2. **Navigate to the project folder**:
 
-```bash
-cd weather-dashboard
+   ```bash
+   cd weather-dashboard
    ```
 
 3. **Install dependencies**: Run the following command to install the required npm packages:
-```bash
-npm install
+
+   ```bash
+   npm install
    ```
 
-
 4. **Run the application**: After the installation is complete, run the app:
-```bash
-npm start
+
+   ```bash
+   npm start
    ```
 
 5. Open your browser and go to http://localhost:3000 to view the Weather Dashboard.
 
+### Deployment
 
+The app is deployed on Vercel, and you can access the live demo here:
 
+- [Live Demo](https://weather-dashboard-0akram.vercel.app/)
