@@ -1,0 +1,73 @@
+{
+    "London": {
+      "city": "London",
+      "current": {
+        "temp": 18,
+        "weather": [{ "main": "Cloudy", "description": "Overcast clouds", "icon": "cloud" }]
+      },
+      "high": 20,
+      "low": 15,
+      "forecast": [
+        { "date": "Mon", "high": 20, "low": 15, "weather": { "main": "Cloudy", "icon": "cloud" } },
+        { "date": "Tue", "high": 22, "low": 16, "weather": { "main": "Sunny", "icon": "sun" } },
+        { "date": "Wed", "high": 19, "low": 14, "weather": { "main": "Rainy", "icon": "cloud-rain" } }
+      ]
+    },
+    "Paris": {
+      "city": "Paris",
+      "current": {
+        "temp": 20,
+        "weather": [{ "main": "Sunny", "description": "Clear sky", "icon": "sun" }]
+      },
+      "high": 22,
+      "low": 18,
+      "forecast": [
+        { "date": "Mon", "high": 24, "low": 18, "weather": { "main": "Sunny", "icon": "sun" } },
+        { "date": "Tue", "high": 26, "low": 19, "weather": { "main": "Cloudy", "icon": "cloud" } },
+        { "date": "Wed", "high": 25, "low": 20, "weather": { "main": "Sunny", "icon": "sun" } }
+      ]
+    },
+    "New York": {
+      "city": "New York",
+      "current": {
+        "temp": 25,
+        "weather": [{ "main": "Sunny", "description": "Clear sky", "icon": "sun" }]
+      },
+      "high": 28,
+      "low": 22,
+      "forecast": [
+        { "date": "Mon", "high": 28, "low": 22, "weather": { "main": "Sunny", "icon": "sun" } },
+        { "date": "Tue", "high": 30, "low": 23, "weather": { "main": "Cloudy", "icon": "cloud" } },
+        { "date": "Wed", "high": 29, "low": 24, "weather": { "main": "Rainy", "icon": "cloud-rain" } }
+      ]
+    },
+    "Tokyo": {
+      "city": "Tokyo",
+      "current": {
+        "temp": 22,
+        "weather": [{ "main": "Cloudy", "description": "Overcast clouds", "icon": "cloud" }]
+      },
+      "high": 24,
+      "low": 19,
+      "forecast": [
+        { "date": "Mon", "high": 24, "low": 19, "weather": { "main": "Cloudy", "icon": "cloud" } },
+        { "date": "Tue", "high": 26, "low": 20, "weather": { "main": "Sunny", "icon": "sun" } },
+        { "date": "Wed", "high": 25, "low": 21, "weather": { "main": "Rainy", "icon": "cloud-rain" } }
+      ]
+    },
+    "Sydney": {
+      "city": "Sydney",
+      "current": {
+        "temp": 22,
+        "weather": [{ "main": "Sunny", "description": "Clear sky", "icon": "sun" }]
+      },
+      "high": 26,
+      "low": 20,
+      "forecast": [
+        { "date": "Mon", "high": 26, "low": 20, "weather": { "main": "Sunny", "icon": "sun" } },
+        { "date": "Tue", "high": 27, "low": 21, "weather": { "main": "Cloudy", "icon": "cloud" } },
+        { "date": "Wed", "high": 28, "low": 22, "weather": { "main": "Sunny", "icon": "sun" } }
+      ]
+    }
+  }
+  
