@@ -69,4 +69,4 @@ Ensure that you have the following installed on your system:
 
 The app is deployed on Vercel, and you can access the live demo here:
 
-- [Live Demo](https://weather-dashboard-0akram.vercel.app/)
+- <a href="https://weather-dashboard-0akram.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
