@@ -39,5 +39,29 @@ Ensure that you have the following installed on your system:
 
 1. **Clone this repository**:
    Open a terminal and run the following command:
+
    ```bash
    git clone https://github.com/0akram/weather-dashboard.git
+   ```
+
+2. **Navigate to the project folder**:
+
+```bash
+cd weather-dashboard
+   ```
+
+3. **Install dependencies**: Run the following command to install the required npm packages:
+```bash
+npm install
+   ```
+
+
+4. **Run the application**: After the installation is complete, run the app:
+```bash
+npm start
+   ```
+
+5. Open your browser and go to http://localhost:3000 to view the Weather Dashboard.
+
+
+
